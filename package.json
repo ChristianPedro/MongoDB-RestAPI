@@ -1,0 +1,19 @@
+{
+  "name": "zeer",
+  "version": "1.0.0",
+  "description": "Tanmoy's first assignment to create a MongoDB database and REST API.",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChristianPedro/MongoDB-RestAPI.git"
+  },
+  "author": "Christian Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristianPedro/MongoDB-RestAPI/issues"
+  },
+  "homepage": "https://github.com/ChristianPedro/MongoDB-RestAPI#readme"
+}
